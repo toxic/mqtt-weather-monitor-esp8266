@@ -19,3 +19,5 @@
   Install external libraries:
   - Adafruit MQTT Library
   - DHT Sensor Library
+  
+- For Web UI read https://github.com/toxic/mqtt-weather-monitor
